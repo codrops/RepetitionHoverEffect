@@ -2,7 +2,7 @@
 
 A simple and fun hover effect with repeated image layers that get scaled up and down.
 
-![Image Title](https://generative-placeholders.glitch.me/image?width=800&height=600")
+![Image Title](https://tympanus.net/codrops/wp-content/uploads/2022/02/RepetitionHover_featured.jpg)
 
 [Article on Codrops](https://tympanus.net/codrops/?p=58746)
 
