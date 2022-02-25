@@ -20,7 +20,7 @@ export class ImageHover {
 
     /**
      * Constructor.
-     * @param {Element} DOM_el - the .columns element
+     * @param {Element} DOM_el - the .image element
      */
     constructor(DOM_el) {
         this.DOM = {el: DOM_el};
